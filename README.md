@@ -7,3 +7,13 @@ Users can interact with the tool through a user interface (UI) that provides a s
 Additionally, the tool provides the ability to run Nuclei in the backend via the UI. Nuclei is a tool that is used for vulnerability scanning and is commonly used in conjunction with other reconnaissance tools. Users can receive notifications via Discord when the Nuclei scan is complete.
 
 Overall, your tool provides an efficient and effective way to gather and store recon data, as well as easily search and navigate through the collected data via a user-friendly UI. The integration of Nuclei and Discord notifications also adds value to the tool by providing additional scanning capabilities and easy notifications of completed scans.
+
+# Installation Steps
+
+Please git clone this repository.
+
+```
+https://github.com/tess-ss/recon-ninja.git
+```
+
+Now, cd recon-ninja/ and you will have 2 folders which is Backend/ & Frontend/
