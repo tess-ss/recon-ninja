@@ -60,25 +60,29 @@ mv ../Frontend/build .
 ```
 
 Apply the following:
-* Assign mongodb uri in `db.js` in function `mongoose.connect`
+* Assign mongodb URI in `db.js` in function `mongoose.connect`
 * Change the constant `discordWebhookUrl` in `app.js`
 
 Open redis server before running the app: (If you do not have redis-server, Please install it via `sudo apt-get install redis-server`)
+
 ```
 redis-server
 ```
 
 Create an `uploads` folder
+
 ```
 mkdir uploads
 ```
 
 Install pm2 server to host the nodejs app:
+
 ```
 npm i pm2 -g
 ```
 
 Start the app:
+
 ```
 pm2 start app.js
 ```
