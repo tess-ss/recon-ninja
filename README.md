@@ -1,4 +1,4 @@
-# Recon-Ninja
+# recon-ninja
 
 The tool is a GitHub repository that provides a recon tool that lets you upload your domain discovery through an upload option. The tool utilizes HTTPX, which is a tool that scans for alive domains. The tool also has an integrated MongoDB Atlas database, which is a cloud-based database that allows the tool to store the recon data.
 
