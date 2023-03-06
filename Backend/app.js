@@ -20,7 +20,7 @@ const { WebhookClient } = require("discord.js")
 const queue = new Queue('httpx queue', {});
 const nuclei = new Queue('nuclei queue',{});
 
-const discordWebhookUrl="https://discord.com/api/webhooks/1069463832373772358/pSlDqCxewfhiyYQg16uUURhmReRg8sE7WnqzV9vXO7lTciLkp81GhdFnrVHAsr2MVMVC"
+const discordWebhookUrl="https://discord.com/api/webhooks/<paste-here>"
 
 const nucleiWorker=new Worker('nuclei queue',async(job)=>{
     const { urls,template } = job.data;
