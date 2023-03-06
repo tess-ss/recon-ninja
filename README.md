@@ -12,3 +12,12 @@ Overall, your tool provides an efficient and effective way to gather and store r
 
 * Go to https://www.mongodb.com/atlas/database and create an account. You can choose between a free or paid account based on your needs.
 Once you've created your account, you may find it helpful to install the UI App, MongoDB Compass, from https://www.mongodb.com/try/download/compass. This tool can help you manage your database more easily.
+
+
+Feel free to use my Digital Ocean reference link to set up a VPS, if you're interested
+
+
+
+
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=b837565c0b6b&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
