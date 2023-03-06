@@ -8,12 +8,7 @@ Additionally, the tool provides the ability to run Nuclei in the backend via the
 
 Overall, your tool provides an efficient and effective way to gather and store recon data, as well as easily search and navigate through the collected data via a user-friendly UI. The integration of Nuclei and Discord notifications also adds value to the tool by providing additional scanning capabilities and easy notifications of completed scans.
 
-# Installation Steps
+## To get started, please follow these steps:
 
-Please git clone this repository.
-
-```
-https://github.com/tess-ss/recon-ninja.git
-```
-
-Now, cd recon-ninja/ and you will have 2 folders which is Backend/ & Frontend/
+* Go to https://www.mongodb.com/atlas/database and create an account. You can choose between a free or paid account based on your needs.
+Once you've created your account, you may find it helpful to install the UI App, MongoDB Compass, from https://www.mongodb.com/try/download/compass. This tool can help you manage your database more easily.
