@@ -103,7 +103,7 @@ pm2 start app.js
 The app would be running on port `3000` (you could change the port number if you want to by changing the port number on `app.listen` function in `app.js`)
 
 
-
+Now, Please visit http://YOUR-VPS-IPS:3000 and you will see Recon Ninja up and running.
 
 
 
