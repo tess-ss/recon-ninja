@@ -41,6 +41,12 @@ https://github.com/tess-ss/recon-ninja.git
 
 * Well, well, well, it's time for the exciting part! Move to 'cd /recon-ninja' and check if you have hit the jackpot by using 'ls'. You should see the magical 'Frontend/' and 'Backend/' folders waiting for you inside
 
+* Please make sure, you have npm installed or just run the following command which is
+
+```
+sudo apt install npm
+```
+
 * Go to the `/Frontend` directory and do the following:
 
 ```bash
