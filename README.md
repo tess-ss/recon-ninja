@@ -15,6 +15,20 @@ Once you've created your account, you may find it helpful to install the UI App,
 
 After setting up the database, please save the database connection URL as we will need it later for this tool.
 
+**!IMPORTANT!**
+
+In the MongoDB Atlas database, Please create a username and password in JSON Object named `users` like this:
+
+```bash
+/** 
+* Paste one or more documents here
+*/
+{
+  "username": "admin",
+  "password": "password"
+}
+```
+
 
 ## Installation
 
@@ -29,7 +43,7 @@ https://github.com/tess-ss/recon-ninja.git
 
 * Go to the `/Frontend` directory and do the following:
 
-```
+```bash
 npm install
 ```
 
