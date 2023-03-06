@@ -17,7 +17,10 @@ After setting up the database, please save the database connection URL as we wil
 
 **!IMPORTANT!**
 
-In the MongoDB Atlas database, Please create a username and password in JSON Object named `users` like this:
+Ensure that the server is up and running and all necessary steps have been completed.
+Once the server is running, the database will automatically create a test database where all different files will be stored.
+Navigate to the users section of the database and add the desired username and password to access the database.
+By following these steps, you can successfully set up and configure the MongoDB Atlas database and grant access to authorized users.
 
 ```bash
 /** 
