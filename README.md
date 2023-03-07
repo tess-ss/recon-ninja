@@ -51,7 +51,7 @@ By following these steps below, create a file like this Users section of the dat
 * Please clone this repository
 
 ```
-git clonehttps://github.com/tess-ss/recon-ninja.git
+git clone https://github.com/tess-ss/recon-ninja.git
 ```
 * much wow, would you look at that? The main folder is called 'recon-ninja/' and it even comes with two bonus folders inside: 'Frontend/' and 'Backend/'. How convenient!"
 
