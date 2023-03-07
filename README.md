@@ -1,5 +1,7 @@
 # recon-ninja
 
+<img width="642" alt="Screen Shot 2023-03-06 at 9 45 01 PM" src="https://user-images.githubusercontent.com/65326024/223306955-e14ef556-c272-4cdf-825b-39c9c3f0d5c4.png">
+
 The tool is a GitHub repository that provides a recon tool that lets you upload your domain discovery through an upload option. The tool utilizes HTTPX, which is a tool that scans for alive domains. The tool also has an integrated MongoDB Atlas database, which is a cloud-based database that allows the tool to store the recon data.
 
 Users can interact with the tool through a user interface (UI) that provides a searchable view of the uploaded subdomains. The UI also distinguishes title cname and provides a search option to easily navigate through the uploaded data of subdomains.
@@ -7,6 +9,17 @@ Users can interact with the tool through a user interface (UI) that provides a s
 Additionally, the tool provides the ability to run Nuclei in the backend via the UI. Nuclei is a tool that is used for vulnerability scanning and is commonly used in conjunction with other reconnaissance tools. Users can receive notifications via Discord when the Nuclei scan is complete.
 
 Overall, your tool provides an efficient and effective way to gather and store recon data, as well as easily search and navigate through the collected data via a user-friendly UI. The integration of Nuclei and Discord notifications also adds value to the tool by providing additional scanning capabilities and easy notifications of completed scans.
+
+![NexSnap-Mar-07-2023_07-53-08_AM](https://user-images.githubusercontent.com/65326024/223307769-c062b6a1-e590-4016-ba09-3aa436c7d457.png)
+
+![NexSnap-Mar-07-2023_07-51-53_AM](https://user-images.githubusercontent.com/65326024/223308061-daae518c-06e5-4a84-8c16-834bdd5c3ba3.png)
+
+![NexSnap-Mar-07-2023_07-47-18_AM](https://user-images.githubusercontent.com/65326024/223307471-8208c704-2efe-42ae-9501-49c660816a5c.png)
+
+### PRE-REQUIREMENTS:
+Please make sure, you have GO lang Installed, Please visit [https://go.dev/doc/install](https://go.dev/doc/install) for reference.
+
+Please make sure to install [Nuclei](https://github.com/projectdiscovery/nuclei) & [HTTPX](https://github.com/projectdiscovery/httpx)
 
 ### To get started, please follow these steps:
 
@@ -28,7 +41,7 @@ By following these steps, you can successfully set up and configure the MongoDB 
 */
 {
   "username": "admin",
-  "password": "password"
+  "password": "admin"
 }
 ```
 
@@ -112,26 +125,7 @@ pm2 start app.js
 The app would be running on port `3000` (you could change the port number if you want to by changing the port number on `app.listen` function in `app.js`)
 
 
-Now, Please visit http://YOUR-VPS-IPS:3000 and you will see Recon Ninja up and running.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Now, Please visit http://YOUR-VPS-IPS:3000 and you will see Recon Ninja up and running. Like this
 
 
 
