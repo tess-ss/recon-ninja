@@ -31,10 +31,10 @@ After setting up the database, please save the database connection URL as we wil
 **!IMPORTANT!**
 
 Ensure that the server is up and running and all necessary steps have been completed.
-Once the server is running, the database will automatically create a test database where all different files will be stored.
-Navigate to the users section of the database and add the desired username and password to access the database.
-By following these steps, you can successfully set up and configure the MongoDB Atlas database and grant access to authorized users.
+Once the server is running, the database will automatically create a test database where all different files will be listed. Such as Users for username and password, Files for all the list of subdomains and Templates for all the templates.
+Navigate to the users section of the database and add the desired username and password to access the your Recon Ninja as by default it comes with a login page which requires username and password.
 
+By following these steps below, create a file like this Users section of the database.
 ```bash
 /** 
 * Paste one or more documents here
