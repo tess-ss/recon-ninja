@@ -48,6 +48,8 @@ By following these steps below, create a file like this Users section of the dat
 
 ## Installation
 
+* Please make sure, your node version it updated to the latest.
+
 * Please clone this repository
 
 ```
