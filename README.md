@@ -18,10 +18,6 @@ Overall, your tool provides an efficient and effective way to gather and store r
 
 
 
-
-https://user-images.githubusercontent.com/65326024/224430308-4061c061-06bd-4257-9a1b-354d48b2f782.mp4
-
-Credits for the above video @[sameerphad72](https://twitter.com/sameerphad72)
 ### PRE-REQUIREMENTS:
 Please make sure, you have GO lang Installed, Please visit [https://go.dev/doc/install](https://go.dev/doc/install) for reference.
 
