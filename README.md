@@ -16,6 +16,12 @@ Overall, your tool provides an efficient and effective way to gather and store r
 
 ![NexSnap-Mar-07-2023_07-47-18_AM](https://user-images.githubusercontent.com/65326024/223307471-8208c704-2efe-42ae-9501-49c660816a5c.png)
 
+
+
+
+https://user-images.githubusercontent.com/65326024/224430308-4061c061-06bd-4257-9a1b-354d48b2f782.mp4
+
+Credits for the above video @[sameerphad72](https://twitter.com/sameerphad72)
 ### PRE-REQUIREMENTS:
 Please make sure, you have GO lang Installed, Please visit [https://go.dev/doc/install](https://go.dev/doc/install) for reference.
 
