@@ -33,7 +33,7 @@ Once you've created your account, you may find it helpful to install the UI App,
 
 After setting up the database, please save the database connection URL as we will need it later for this tool.
 
-**!IMPORTANT!**
+## IMPORTANT
 
 Ensure that the server is up and running and all necessary steps have been completed.
 Once the server is running, the database will automatically create a test database where all different files will be listed. Such as Users for username and password, Files for all the list of subdomains and Templates for all the templates.
