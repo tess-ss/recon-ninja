@@ -2,7 +2,6 @@
 
 
 <p align="center">
-# <a href="https://rengine.wiki"><img src="https://user-images.githubusercontent.com/65326024/224430984-8a44e06d-023d-432b-89e8-54a75971b7fd.png" alt=""/></a>
 </p>
 
 The tool is a GitHub repository that provides a recon tool that lets you upload your domain discovery through an upload option. The tool utilizes HTTPX, which is a tool that scans for alive domains. The tool also has an integrated MongoDB Atlas database, which is a cloud-based database that allows the tool to store the recon data.
